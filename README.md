@@ -60,6 +60,10 @@ sudo systemctl start load-balancer
 ![alt text](image/Penyimpanan.png)
 ![alt text](image/HardDiks.png)
 ![alt text](image/Setting.png)
+![alt text](image/load_balancer.jpg)
+![alt text](image/ip.jpg)
+![alt text](image/web_server.jpg)
+![alt text](image/hasil.jpg)
 ![alt text](<image/WhatsApp Image 2025-04-23 at 23.13.21_43b577c3.jpg>)
 ![alt text](image/PRINT-LANDING-PAGE.jpg)
 
